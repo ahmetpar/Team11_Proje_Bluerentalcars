@@ -7,6 +7,6 @@ public class AdaminDibiAhmetAbi {
     @Test
     public void testName() {
 
-
+        System.out.println("adamin dibi ahmet abi");
     }
 }
