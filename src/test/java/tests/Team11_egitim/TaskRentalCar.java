@@ -1,4 +1,8 @@
-1- Klicken zum Login. Hiermit loginnen wir, mit dem erstellten Konto.
+package tests.Team11_egitim;
+
+public class TaskRentalCar {
+    /*
+    1- Klicken zum Login. Hiermit loginnen wir, mit dem erstellten Konto.
 2- Wahlen Sie den Audi Q8 aus, dann reservisen Sie den.
 3- Bestatigen Sie, ob Sie den reserviert haben.
 
@@ -28,3 +32,5 @@ TEST 6
 1- Klicken zum Login.
 2- Nach dem hat man gelogt,Klicken Sie zur Profile, dann Bestätigen, ob die Profile-Daten richtig/gleich ist.
 3- Klicken zur Logout, da man aus dem System ausgelogt.
+     */
+}
