@@ -8,5 +8,7 @@ public class AdaminDibiAhmetAbi {
     public void testName() {
 
         System.out.println("adamin dibi ahmet abi");
+
+        System.out.println("adamin dibinin dibinin dibi ahmet abi");
     }
 }
